@@ -1,0 +1,23 @@
+# Centro Tutorial de Cereté, sala de cómputo: escenario B, hora pico de entregas
+# Servidor o equipo compartido de la sala. 1 unidad = 1 segundo. Valores supuestos.
+# Formato: identificador;llegada;ráfagas (CPU, E/S, CPU, ...)
+# T1 exportar un video para una exposición
+T1;0;20;4;10
+# T2 compilar un proyecto grande
+T2;0;8;2;4
+# T3 script corto
+T3;1;2
+# T4 exportar PDF
+T4;1;4;3;1
+# T5 script corto
+T5;2;3
+# T6 análisis de datos en un notebook
+T6;2;12;3;6
+# T7 compilar un ejercicio
+T7;3;2
+# T8 empaquetar la entrega en .zip
+T8;3;2;5;1
+# T9 pruebas unitarias
+T9;4;6
+# T10 script muy corto
+T10;4;1

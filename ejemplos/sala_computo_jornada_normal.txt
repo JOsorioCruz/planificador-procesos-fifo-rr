@@ -1,0 +1,15 @@
+# Centro Tutorial de Cereté, sala de cómputo: escenario A, jornada normal
+# Servidor o equipo compartido de la sala. 1 unidad = 1 segundo. Valores supuestos.
+# Formato: identificador;llegada;ráfagas (CPU, E/S, CPU, ...)
+# T1 compilar un proyecto Java
+T1;0;6;2;2
+# T2 ejecutar un script corto
+T2;3;3
+# T3 exportar un informe a PDF
+T3;6;4;3;1
+# T4 consulta a una base de datos local
+T4;9;2;4;2
+# T5 correr pruebas unitarias
+T5;12;8
+# T6 compilar un ejercicio corto
+T6;15;1

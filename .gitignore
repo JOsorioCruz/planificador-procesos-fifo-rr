@@ -1,0 +1,13 @@
+# Carpetas de trabajo
+tareas/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Maven
+target/
+
+# macOS
+.DS_Store

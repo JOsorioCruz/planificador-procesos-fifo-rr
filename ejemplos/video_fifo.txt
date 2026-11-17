@@ -1,0 +1,6 @@
+# Ejemplo del video FIFO del curso
+# Formato: identificador;llegada;ráfagas (CPU, E/S, CPU, ...)
+Word;0;8
+Excel;2;6
+Paint;4;4
+Cal;6;2

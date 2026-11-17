@@ -1,0 +1,5 @@
+# Ejercicio con peticiones de entrada/salida
+# P1: CPU 3, E/S 2, CPU 2. P2: CPU 4. P3: CPU 2, E/S 1, CPU 1.
+P1;0;3;2;2
+P2;1;4
+P3;2;2;1;1

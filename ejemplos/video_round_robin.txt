@@ -1,0 +1,6 @@
+# Ejemplo del video Round Robin del curso (quantum 2)
+# Los cuatro procesos están en la cola desde el inicio, en este orden.
+P1;0;8
+P2;0;6
+P3;0;4
+P4;0;2
